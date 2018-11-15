@@ -9,7 +9,7 @@ MAC
 Conf USA
 Mt West
 Sun Belt
-Independent
+LAX
 [END_CONFERENCES]
 [START_TEAMS]
 Boston College,BC,ACC,67,SYR,3
@@ -146,13 +146,13 @@ Georgia Southern,GASO,Sun Belt,37,GAST,4
 Georgia State,GAST,Sun Belt,27,GASO,4
 South Alabama,SAL,Sun Belt,31,TROY,4
 [END_CONF]
-Army,ARMY,Independent,43,LIB,3
-BYU,BYU,Independent,50,NMST,0
-Liberty,LIB,Independent,33,ARMY,3
-New Mexico St,NMST,Independent,38,BYU,1
-Notre Dame,ND,Independent,80,MASS,2
-UMass,MASS,Independent,38,ND,3
+New Canaan,NC,LAX,95,LIB,3
+Pingree,P,LAX,95,NMST,0
+Darien,D,LAX,95,ARMY,3
+King,K,LAX,38,BYU,1
+Masuk,M,LAX,95,MASS,2
+Hamden Hall,HH,LAX,95,ND,3
 [END_CONF]
 [END_TEAMS]
-Rose Bowl,Orange Bowl,Sugar Bowl,Fiesta Bowl,Peach Bowl,Cotton Bowl,Citrus Bowl,Gator Bowl,Cactus Bowl,Alamo Bowl,Holiday Bowl,Sun Bowl,Liberty Bowl,Independence Bowl,Vegas Bowl,Military Bowl,Aloha Bowl,Humanitarian Bowl
+NEPSAC CHampionship,Orange Bowl,Sugar Bowl,Fiesta Bowl,Peach Bowl,Cotton Bowl,Citrus Bowl,Gator Bowl,Cactus Bowl,Alamo Bowl,Holiday Bowl,Sun Bowl,Liberty Bowl,Independence Bowl,Vegas Bowl,Military Bowl,Aloha Bowl,Humanitarian Bowl
 [END_BOWL_NAMES]
